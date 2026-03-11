@@ -5,6 +5,8 @@
 ## Portfolio
 
 ### 1. Naver Shopping Full-Stack Crawler
+<img src="./portfolio/naver-shopping-crawler/thumbnail.png" width="700">
+
 - 유형: 개인 프로젝트
 - 주제: 네이버 쇼핑 상품/리뷰/이미지 수집 자동화
 - 핵심 내용:
@@ -17,6 +19,8 @@
 ---
 
 ### 2. Final Project | Global Beauty Data Pipeline
+<img src="./portfolio/final-project/thumbnail.png" width="700">
+
 - 유형: 팀 프로젝트
 - 주제: 글로벌 뷰티 시장 진입 가능성 예측을 위한 데이터 파이프라인 구축
 - 핵심 내용:
