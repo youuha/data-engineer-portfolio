@@ -20,7 +20,7 @@
 ---
 
 ### 2. Naver Shopping Full-Stack Crawler
-<img src="./portfolio/naver-shopping-crawler/thumbnail.png" width="700">
+<img src="./portfolio/naver-shopping-crawler/thumbnail.png" width="450">
 
 - 유형: 개인 프로젝트
 - 주제: 네이버 쇼핑 상품/리뷰/이미지 수집 자동화
