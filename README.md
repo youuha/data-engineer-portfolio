@@ -5,7 +5,7 @@
 ## Portfolio
 
 ### 1. Final Project | Global Beauty Data Pipeline
-<img src="./portfolio/final-project/thumbnail.png" width="700">
+<img src="./portfolio/final-project/thumbnail.png" width="500">
 
 - 유형: 팀 프로젝트
 - 주제: 글로벌 뷰티 시장 진입 예측을 위한 End-to-End 데이터 파이프라인 구축
